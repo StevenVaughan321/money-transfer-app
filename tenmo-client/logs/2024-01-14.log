@@ -1,0 +1,8 @@
+2024-01-14T12:17:37.1606852 400 : [{"timestamp":"2024-01-14T17:17:37.148+00:00","status":400,"error":"Bad Request","message":"400 BAD_REQUEST","path":"/transfers/"}]
+2024-01-14T12:17:55.6674596 400 : [{"timestamp":"2024-01-14T17:17:55.666+00:00","status":400,"error":"Bad Request","message":"400 BAD_REQUEST","path":"/transfers/"}]
+2024-01-14T12:18:41.8257784 400 : [{"timestamp":"2024-01-14T17:18:41.824+00:00","status":400,"error":"Bad Request","message":"400 BAD_REQUEST","path":"/transfers/"}]
+2024-01-14T12:18:58.7108391 400 : [{"timestamp":"2024-01-14T17:18:58.709+00:00","status":400,"error":"Bad Request","message":"400 BAD_REQUEST","path":"/transfers/"}]
+2024-01-14T12:19:08.6075244 400 : [{"timestamp":"2024-01-14T17:19:08.606+00:00","status":400,"error":"Bad Request","message":"400 BAD_REQUEST","path":"/transfers/"}]
+2024-01-14T12:20:14.8186428 400 : [{"timestamp":"2024-01-14T17:20:14.817+00:00","status":400,"error":"Bad Request","message":"400 BAD_REQUEST","path":"/transfers/"}]
+2024-01-14T14:17:56.7481057 400 : [{"timestamp":"2024-01-14T19:17:56.734+00:00","status":400,"error":"Bad Request","message":"400 BAD_REQUEST","path":"/transfers/"}]
+2024-01-14T14:18:59.7607057 400 : [{"timestamp":"2024-01-14T19:18:59.759+00:00","status":400,"error":"Bad Request","message":"400 BAD_REQUEST","path":"/transfers/"}]
